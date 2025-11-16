@@ -1,10 +1,7 @@
 <h1>Output:</h1>
 <table>
- <tr>
-  <th>Starting:</th>
-  <th>White Theme:</th>
-  <th>Dark Theme:</th>
- </tr>
+
+ 
   <tr>
    <td>
      <img width="364" height="821" alt="image" src="https://github.com/user-attachments/assets/f466068a-5871-41d1-af9b-51c692a886f0" />
